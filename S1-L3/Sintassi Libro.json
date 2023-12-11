@@ -1,0 +1,11 @@
+
+{
+	"libro": 
+	{ 
+		"Titolo":"Misery",
+		"capitoli":"20", 
+		"autore": {
+				"nome":"Stephen King", 
+				"indirizzo":"New York" }
+	}	
+}

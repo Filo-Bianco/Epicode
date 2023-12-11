@@ -1,0 +1,17 @@
+
+{
+	"cd":
+	{
+	"casa discografica":"Sony",
+	"artisti":"Vasco Rossi",
+	"anno di pubblicazione":"2020",
+	"genere musicale":["rock","pop"],
+	"canzoni":[
+		{"traccia": "1", "durata":"2:00", "nome":"prova"},
+		{ "traccia":"2", "durata":"2:00", "nome":"prova"},
+		{ "traccia":"3", "durata":"2:00", "nome":"prova"},
+		{ "traccia":"4", "durata":"2:00", "nome":"prova"}
+		]	
+				
+	}
+}

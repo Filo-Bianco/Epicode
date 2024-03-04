@@ -1,0 +1,39 @@
+MI COFFEE ADDICTION
+
+
+LINK DATI: 
+	- https://docs.google.com/spreadsheets/d/1wuH4L7q68GzfBp8bYs0Njn4fRlMbHML_nXw7FCzkimE/edit?usp=sharing
+
+LINK DASHBOARD:
+	- https://lookerstudio.google.com/reporting/4125b2e0-227f-4c74-84db-a80e269cedd8
+
+LINK ALTRE FONTI: 
+	- https://www.worldatlas.com/articles/top-10-coffee-consuming-nations.html
+	- https://worldpopulationreview.com/country-rankings/coffee-producing-countries
+	- https://docs.google.com/spreadsheets/d/11UBhKHiq3HgWuV2XS-Z4cvqNqQ52Y3TszAZXJFjQXlg/edit?usp=sharing
+
+
+Durante questi mesi ho deciso di raccogliere dati sulla quantità di caffè, o di altre bevande, che assumo ogni giorno. I dati raccolti includono:
+
+	- Fascia oraria suddivisa in 6 parti durante la giornata.
+	- Quantità di caffè assunta.
+	- Tipo di bevanda, specificando caffè o altro (ex. tisana, tè, cioccolata, ecc.)
+	- Luogo, indicando se a casa o fuori.
+	- Compagnia, se sto bevendo da sola o in compagnia.
+
+Nella dashboard ho deciso di mostrare attraverso due scheda la quantità totale di bevande assunte in un tot di giorni. 
+
+Successivamente, un grafico a barre mostra in quale fascia oraria consumo più caffè o altre bevande. Questo tipo di grafico consente di individuare immediatamente la fascia oraria con il maggior numero di bevande assunte.
+
+In seguito, utilizzando tre grafici a anello, mostro la suddivisione per tipo di bevanda, luogo e compagnia. Ho scelto questi tre grafici perché, avendo solo due valori per ciascun grafico, la comprensione è semplice ed immediata.
+
+Infine, tramite un grafico a serie temporali, presento l'andamento nel corso di questi tre mesi del mio consumo di caffè. Questo tipo di grafico è il più adatto per mostrare l'evoluzione dei dati nel tempo.
+
+In conclusione, dall'analisi emerge che consumo decisamente troppo caffè! La maggior parte di queste bevande viene consumata in casa, in compagnia di altre persone, soprattutto nella fascia oraria che va dalle 12 alle 16.
+
+
+
+Nella dashboard successiva, ho analizzato alcuni dati trovati online:
+
+	- Un dataset riguardante i 25 maggiori Paesi consumatori di caffè, dal quale è emerso che la Finlandia occupa la prima posizione.
+	- Un dataset relativo ai 25 maggiori Paesi produttori di caffè, con dati risalenti agli ultimi 5 anni, evidenziando che il Brasile è al primo posto in termini di produzione.
